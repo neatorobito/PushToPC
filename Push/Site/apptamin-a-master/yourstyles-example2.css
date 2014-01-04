@@ -1,0 +1,178 @@
+/* Yourstyles : Use this stylesheet to apply custom css styles to the Apptamin Theme 
+
+We added some of our own styles for the demo. Feel free to edit, remove or keep them !
+
+*/
+
+body{
+	background: #F7F5F2; /* Old browsers */
+}
+body.home{
+	background: #FFF; /* Old browsers */
+}
+a{
+	color:#0088C;
+	text-decoration:none;
+}
+a:hover,a:visited{
+	color:#005580;
+}
+#main{
+	width:980px;
+}
+body.home #main{
+	padding-bottom:0px;
+}
+
+/* =HEADER */
+#header{
+	background: #2E3133;	; /* Old browsers */
+}
+#branding{
+	height:65px;
+	width:980px;
+}
+#blog-title {
+    padding: 15px 0 0;
+}
+#access{
+	text-transform:uppercase;
+	font-weight:normal;
+	padding-top:15px;
+}
+#access a{
+	color:#777E83;
+}
+
+#access a:hover{
+	color:#FFF;
+}
+
+/* =APP STAGE */
+body.home #app-stage {
+	/*background: url("images/bg_appstage.jpg") repeat-x scroll center 0 transparent;*/
+	height:555px;
+	background:#F7F5F2;
+	border-bottom:1px solid #fff;
+	box-shadow: 0 -1px 3px rgba(0, 0, 0, 0.1) inset;
+}
+#scroller{
+	padding-top:30px;
+	/*background: url("images/bg_scroller.jpg") no-repeat scroll center 0 transparent;*/
+	background:#F7F5F2;	
+}
+.app-name h1{
+	color:#45494D;
+	padding-top:30px;
+}
+.app-description {
+    padding-top: 60px;
+}
+.app-description h2 {
+    font-size: 1.8em;
+    font-weight: normal;
+    line-height: 30px;
+}
+.app-description.video-on{
+	padding-top:40px;
+}
+.app-video{
+	padding-top:20px;
+}
+.notif input#mc-embedded-subscribe_appstage{
+	background: #4894ca; /* Old browsers */
+	background: -moz-linear-gradient(top,  #4894ca 0%, #1b69a1 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#4894ca), color-stop(100%,#1b69a1)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #4894ca 0%,#1b69a1 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #4894ca 0%,#1b69a1 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #4894ca 0%,#1b69a1 100%); /* IE10+ */
+	background: linear-gradient(top,  #4894ca 0%,#1b69a1 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4894ca', endColorstr='#1b69a1',GradientType=0 ); /* IE6-9 */
+	border:1px solid #1b69a1;
+}
+.download-buttons {
+	padding-top:50px;
+}
+
+
+/* =MAIN */
+#container {
+	margin-top:20px;
+	background-color: #fff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+body.home #container {
+	margin-top:0px;
+	background:none;
+	box-shadow:none;
+}
+.app-widget-item{
+	margin-bottom:22px;
+}
+h3.widgettitle{
+	text-transform:uppercase;
+	font-style:normal;
+}
+.textwidget{
+	background-color: #EDEAE5;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) inset;
+	padding:15px 20px 15px 20px;
+}
+
+
+/* =APP FEATURES */
+hr.styled {
+	 border: 0;
+    height: 1px;
+    background: #333;
+    background-image: -webkit-linear-gradient(left, #e1d9d3, #bab4b1, #e1d9d3); 
+    background-image:    -moz-linear-gradient(left, #e1d9d3, #bab4b1, #e1d9d3); 
+    background-image:     -ms-linear-gradient(left, #e1d9d3, #bab4b1, #e1d9d3); 
+    background-image:      -o-linear-gradient(left, #e1d9d3, #bab4b1, #e1d9d3); 
+	width:980px;
+	display:none;
+}
+ul.features li{
+	padding-top:50px;
+}
+ul.features li.feature2{
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1) inset;
+	background:#F7F5F2;
+}
+ul.features li.feature5{
+	background-color: #EDEAE5;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) inset;
+}
+.features h3 {
+	text-transform:uppercase;
+	color:#45494D;
+}
+.features h4 {
+	color:#626263;
+}
+.features h4 span {
+	text-transform:uppercase;
+	font-weight:bold;
+}
+
+/* =FOOTER */
+body.home #footer{
+	margin-top:0px;
+}
+#footer,#siteinfo {
+	background:#2E3133;
+}
+#footer h4{
+	color:#777E83;
+	text-align:center;
+}
+#footer a{
+	color:#E2E3E4;
+	text-decoration:none;
+}
+#footer a:hover{
+	color:#5EBBC1;
+}
+.footer-bloc ul.twitter li, .footer-bloc ul.blog li {
+	border-bottom:none;
+}

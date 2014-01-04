@@ -1,0 +1,53 @@
+C:\Users\Mark\documents\visual studio 2010\Projects\PushToPC\PushToPC\Bin\Release\ApplicationIcon.png
+C:\Users\Mark\documents\visual studio 2010\Projects\PushToPC\PushToPC\Bin\Release\Background.png
+C:\Users\Mark\documents\visual studio 2010\Projects\PushToPC\PushToPC\Bin\Release\PushToPC.dll
+C:\Users\Mark\documents\visual studio 2010\Projects\PushToPC\PushToPC\Bin\Release\PushToPC.pdb
+C:\Users\Mark\documents\visual studio 2010\Projects\PushToPC\PushToPC\Bin\Release\AppManifest.xaml
+C:\Users\Mark\documents\visual studio 2010\Projects\PushToPC\PushToPC\Bin\Release\PushToPC.xap
+C:\Users\Mark\documents\visual studio 2010\Projects\PushToPC\PushToPC\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Mark\documents\visual studio 2010\Projects\PushToPC\PushToPC\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Mark\documents\visual studio 2010\Projects\PushToPC\PushToPC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Mark\documents\visual studio 2010\Projects\PushToPC\PushToPC\obj\Release\App.g.i.cs
+C:\Users\Mark\documents\visual studio 2010\Projects\PushToPC\PushToPC\obj\Release\MainPage.g.i.cs
+C:\Users\Mark\documents\visual studio 2010\Projects\PushToPC\PushToPC\obj\Release\SetupInfo.g.i.cs
+C:\Users\Mark\documents\visual studio 2010\Projects\PushToPC\PushToPC\obj\Release\SetupIP.g.i.cs
+C:\Users\Mark\documents\visual studio 2010\Projects\PushToPC\PushToPC\obj\Release\PushToPC.g.resources
+C:\Users\Mark\documents\visual studio 2010\Projects\PushToPC\PushToPC\obj\Release\PushToPC.dll
+C:\Users\Mark\documents\visual studio 2010\Projects\PushToPC\PushToPC\obj\Release\PushToPC.pdb
+C:\Users\Mark\documents\visual studio 2010\Projects\PushToPC\PushToPC\obj\Release\XapCacheFile.xml
+C:\Users\Mark\Documents\Visual Studio 2010\Projects\PushToPC\PushToPC\PushToPC\Bin\Release\ApplicationIcon.png
+C:\Users\Mark\Documents\Visual Studio 2010\Projects\PushToPC\PushToPC\PushToPC\Bin\Release\Background.png
+C:\Users\Mark\Documents\Visual Studio 2010\Projects\PushToPC\PushToPC\PushToPC\Bin\Release\PushToPC.dll
+C:\Users\Mark\Documents\Visual Studio 2010\Projects\PushToPC\PushToPC\PushToPC\Bin\Release\PushToPC.pdb
+C:\Users\Mark\Documents\Visual Studio 2010\Projects\PushToPC\PushToPC\PushToPC\Bin\Release\AppManifest.xaml
+C:\Users\Mark\Documents\Visual Studio 2010\Projects\PushToPC\PushToPC\PushToPC\Bin\Release\PushToPC.xap
+C:\Users\Mark\Documents\Visual Studio 2010\Projects\PushToPC\PushToPC\PushToPC\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Mark\Documents\Visual Studio 2010\Projects\PushToPC\PushToPC\PushToPC\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Mark\Documents\Visual Studio 2010\Projects\PushToPC\PushToPC\PushToPC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2010\Projects\PushToPC\PushToPC\PushToPC\obj\Release\App.g.i.cs
+C:\Users\Mark\Documents\Visual Studio 2010\Projects\PushToPC\PushToPC\PushToPC\obj\Release\Donation.g.i.cs
+C:\Users\Mark\Documents\Visual Studio 2010\Projects\PushToPC\PushToPC\PushToPC\obj\Release\MainPage.g.i.cs
+C:\Users\Mark\Documents\Visual Studio 2010\Projects\PushToPC\PushToPC\PushToPC\obj\Release\SetupInfo.g.i.cs
+C:\Users\Mark\Documents\Visual Studio 2010\Projects\PushToPC\PushToPC\PushToPC\obj\Release\SetupIP.g.i.cs
+C:\Users\Mark\Documents\Visual Studio 2010\Projects\PushToPC\PushToPC\PushToPC\obj\Release\PushToPC.g.resources
+C:\Users\Mark\Documents\Visual Studio 2010\Projects\PushToPC\PushToPC\PushToPC\obj\Release\PushToPC.dll
+C:\Users\Mark\Documents\Visual Studio 2010\Projects\PushToPC\PushToPC\PushToPC\obj\Release\PushToPC.pdb
+C:\Users\Mark\Documents\Visual Studio 2010\Projects\PushToPC\PushToPC\PushToPC\obj\Release\XapCacheFile.xml
+C:\Users\Mark\Code\PushToPC\PushToPC\PushToPC\Bin\Release\ApplicationIcon.png
+C:\Users\Mark\Code\PushToPC\PushToPC\PushToPC\Bin\Release\Background.png
+C:\Users\Mark\Code\PushToPC\PushToPC\PushToPC\Bin\Release\PushToPC.dll
+C:\Users\Mark\Code\PushToPC\PushToPC\PushToPC\Bin\Release\PushToPC.pdb
+C:\Users\Mark\Code\PushToPC\PushToPC\PushToPC\Bin\Release\AppManifest.xaml
+C:\Users\Mark\Code\PushToPC\PushToPC\PushToPC\Bin\Release\PushToPC.xap
+C:\Users\Mark\Code\PushToPC\PushToPC\PushToPC\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Mark\Code\PushToPC\PushToPC\PushToPC\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Mark\Code\PushToPC\PushToPC\PushToPC\obj\Release\PushToPC.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Code\PushToPC\PushToPC\PushToPC\obj\Release\App.g.cs
+C:\Users\Mark\Code\PushToPC\PushToPC\PushToPC\obj\Release\Donation.g.cs
+C:\Users\Mark\Code\PushToPC\PushToPC\PushToPC\obj\Release\MainPage.g.cs
+C:\Users\Mark\Code\PushToPC\PushToPC\PushToPC\obj\Release\SetupInfo.g.cs
+C:\Users\Mark\Code\PushToPC\PushToPC\PushToPC\obj\Release\SetupIP.g.cs
+C:\Users\Mark\Code\PushToPC\PushToPC\PushToPC\obj\Release\PushToPC.g.resources
+C:\Users\Mark\Code\PushToPC\PushToPC\PushToPC\obj\Release\PushToPC.dll
+C:\Users\Mark\Code\PushToPC\PushToPC\PushToPC\obj\Release\PushToPC.pdb
+C:\Users\Mark\Code\PushToPC\PushToPC\PushToPC\obj\Release\XapCacheFile.xml

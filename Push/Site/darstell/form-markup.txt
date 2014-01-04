@@ -1,0 +1,9 @@
+<form class="register-form" method="post" action="http://appdesignvault.com/appthemedemo/sample-page/">
+				<fieldset>
+					<h2>We’re launching soon. Please register below to get updates of our progress.</h2>
+					<div class="text-field">
+						<input type="text" name="email" id="s2email" value="Enter your email" size="20" onfocus="if (this.value == 'Enter your email') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter your email';}" />
+					</div>
+					<input class="submit" type="submit" name="subscribe" value="Sign up here" />
+				</fieldset>
+			</form>
